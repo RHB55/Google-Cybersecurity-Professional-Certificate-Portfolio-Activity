@@ -1,1 +1,1 @@
-# Google-Cybersecurity-Professional-Certificate-Portfolio-Activity
+# Google-Cybersecurity-Professional-Certificate
