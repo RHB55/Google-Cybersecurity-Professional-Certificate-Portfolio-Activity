@@ -1,1 +1,17 @@
+## Project Introduction:
 
+A well-crafted CV is essential in the cybersecurity field, where precision and credibility matter.
+It serves as the first line of defense in showcasing your technical skills, certifications, and experience to potential employers. A strong CV helps you stand out by highlighting your strengths, values, and interest in the field of cybersecurity, which can meet the security goals of an organization. Ultimately, increases your chances of securing opportunities and advancing in this rapidly evolving field
+
+### 1. First step: Exploring my interests and strengths 
+
+strted this with recreating My CV  
+Two to three sentences that state the
+problem you solved, the data used for the project, and your
+modeling results.
+■ Modeling and Evaluation: Name and describe the models you
+used for the project and any corresponding evaluation metrics.
+■ Conclusion: Your recommendations for solving the problem and a
+description of any future steps you want to take to expand on your
+project.
+Creating a Professional CV
