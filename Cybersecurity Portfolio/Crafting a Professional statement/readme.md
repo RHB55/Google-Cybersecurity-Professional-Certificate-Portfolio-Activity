@@ -11,7 +11,7 @@ In my professional statement, I highlight the core values that guide my work. Th
 I highlight the key strengths that define my capabilities and support my professional growth. My statement also reflects my reliability, consistency, and commitment to delivering high-quality work. Additionally, I present my willingness to learn, adapt, and develop new skills as part of my continuous improvement mindset.
 
 #### Learning and Evaluation
-Note! From my commitment to continuous learning and development, note that this Professional statement will be revised and refined throughout the program.
+Note! In line with my commitment to continuous learning and development, this Professional statement will be revised and refined throughout the program.
 
 #### Project Impact
 This project enabled me to define my identity as a cybersecurity analyst and set me on the first step in my journey towards my professional goal. I have gained a deeper understanding of my values ​​and skills to be able to deliver and achieve the goals of the field, and this project has greatly enhanced my readiness to work in the field of cybersecurity.
