@@ -21,3 +21,7 @@ My task is to review the IT manager’s scope, goals, and risk assessment report
 After performing an internal audit by completing a controls and compliance checklist, I provide recommendations related to controls and compliance needs that the IT manager could communicate to stakeholders to reduce risks to assets and improve Botium Toys’ security posture.
 
 ### Project Impact
+This project contributed to the company's objective of providing an overview of the risks and fines it might face due to the current state of its security posture. and present solutions and recommendations to the IT manager regarding strengthening the company's governance and compliance needs, so that the IT manager could communicate to stakeholders to reduce risks to assets and improve Botium Toys’ security posture.
+
+
+
