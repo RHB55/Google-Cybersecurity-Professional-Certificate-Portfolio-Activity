@@ -1,7 +1,8 @@
 # Project Description 
 As a cybersecurity analyst working at a company that specializes in providing IT services for clients. Several customers of clients reported that they were not able to access the client company website www.yummyrecipesforme.com, and saw the error “destination port unreachable” after waiting for the page to load. I was tasked with analyzing the situation and determining which network protocol was affected during this incident.
 
-### Solution Strategy Followed  :
+### Solution Strategy Followed
+
 **Step 1: Identify the Issue**
 
 I received reports that users could not access the website and were seeing the error **“destination port unreachable.”** I reproduced the issue by attempting to visit the website myself and observed the same error.
@@ -45,5 +46,7 @@ From a technical perspective, the project improved the team’s ability to:
 * Understand how different network protocols interact in real-world scenarios
 
 Overall, this project strengthened incident analysis skills, reinforced the importance of proactive monitoring and configuration management, and contributed to improving the organization’s network reliability and resilience.
+
+You will find **Cybersecurity incident report network traffic analysis** file in my Cybersecurity Portfolio in the Network Analysis and Security folder **Analyze network layer communication**.
 
 
