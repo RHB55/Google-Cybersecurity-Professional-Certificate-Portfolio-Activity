@@ -13,8 +13,7 @@ One afternoon, I received an automated alert from the monitoring system indicati
 **Configure the firewall:** l to block the IP address that was sending an abnormal number of SYN requests. I alerted  my manager about this problem quickly and discussed the next steps to stop this attacker and prevent this problem from happening again.
 
 **Incident Report:** 
-
-
+Incident Report: I prepared a report about the attack I discovered and how it was  affecting the web server, employees, and the immediate response actions taken.
 
 
 
