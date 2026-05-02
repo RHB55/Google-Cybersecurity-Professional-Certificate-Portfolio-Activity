@@ -5,3 +5,5 @@ One afternoon, I received an automated alert from the monitoring system indicati
 ## Project Scope
 
 **Incident Detection:** One afternoon, an automated alert from the monitoring system indicated a problem with the web server. I attempt to visit the company’s website, but I receive a connection timeout error message in the browser.
+
+**Packet Capture**: I use a packet sniffer to capture data packets in transit to and from the web server. I notice a large number of TCP SYN requests coming from an unfamiliar IP address. The web server is overwhelmed by the volume of incoming traffic and is losing its ability to respond to the abnormally large number of SYN requests.
