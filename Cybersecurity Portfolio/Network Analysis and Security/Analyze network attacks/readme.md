@@ -8,7 +8,11 @@ One afternoon, I received an automated alert from the monitoring system indicati
 
 **Packet Capturing:** I use a packet sniffer to capture data packets in transit to and from the web server. I notice a large number of TCP SYN requests coming from an unfamiliar IP address. The web server is overwhelmed by the volume of incoming traffic and is losing its ability to respond to the abnormally large number of SYN requests.
 
-**Immediate Mitigation:** I take the server offline temporarily so that the machine can recover and return to a normal operating status. I alerted  my manager about this problem quickly and discussed the next steps to stop this attacker and prevent this problem from happening again.
+**Immediate Mitigation:** I take the server offline temporarily so that the machine can recover and return to a normal operating status. 
+
+**Configure the firewall:** l to block the IP address that was sending an abnormal number of SYN requests. I alerted  my manager about this problem quickly and discussed the next steps to stop this attacker and prevent this problem from happening again.
+
+**Incident Report:** 
 
 
 
