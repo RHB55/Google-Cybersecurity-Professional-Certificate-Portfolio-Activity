@@ -16,9 +16,16 @@ One afternoon, I received an automated alert from the monitoring system indicati
 Incident Report: I prepared a report about the attack I discovered and how it was  affecting the web server, employees, and the immediate response actions taken.
 
 ## Project Impact
+This project highlights the critical role of network Security in ensuring reliable access to web services. The incident demonstrated how a type of DoS attack called a SYN flooding attack can completely prevent users from accessing a website.
 
+From a technical perspective, the project improved the ability to:
 
+* Immediate Mitigation 
+* Configure the firewall
+* Incident Report
+* Suggest potential ways to secure the network so this attack can be prevented in the future.
 
+You will find the **Cybersecurity-incident-report** file in my Cybersecurity Portfolio in the Network Analysis and Security folder, **Analyze network attacks**.
 
 
 
