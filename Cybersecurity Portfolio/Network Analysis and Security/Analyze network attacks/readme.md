@@ -15,7 +15,6 @@ One afternoon, I received an automated alert from the monitoring system indicati
 **Incident Report:** 
 Incident Report: I prepared a report about the attack I discovered and how it was  affecting the web server, employees, and the immediate response actions taken.
 
-## Project Impact
 ### **Project Impact**
 
 This project demonstrates the critical importance of **network security controls** in maintaining the availability and reliability of web services. The incident specifically highlighted how a **SYN flooding attack**—a type of DoS attack targeting the TCP handshake—can overwhelm a server by exhausting its connection resources, ultimately preventing legitimate users from accessing the website.
