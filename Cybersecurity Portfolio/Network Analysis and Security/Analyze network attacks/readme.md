@@ -17,7 +17,7 @@ Incident Report: I prepared a report about the attack I discovered and how it wa
 
 ### **Project Impact**
 
-This project demonstrates the critical importance of **network security controls** in maintaining the availability and reliability of web services. The incident specifically highlighted how a **SYN flooding attack**—a type of DoS attack targeting the TCP handshake—can overwhelm a server by exhausting its connection resources, ultimately preventing legitimate users from accessing the website.
+This project demonstrates the critical importance of network security controls in maintaining the availability and reliability of web services. The incident specifically highlighted how a SYN flooding attack—a type of DoS attack targeting the TCP handshake—can overwhelm a server by exhausting its connection resources, ultimately preventing legitimate users from accessing the website.
 
 From a **business perspective**, the attack caused a disruption in service availability, which can negatively impact user experience, customer trust, and overall reputation. Even short periods of downtime can result in lost engagement and potential revenue, especially for client-facing services.
 
