@@ -16,16 +16,27 @@ One afternoon, I received an automated alert from the monitoring system indicati
 Incident Report: I prepared a report about the attack I discovered and how it was  affecting the web server, employees, and the immediate response actions taken.
 
 ## Project Impact
-This project highlights the critical role of network Security in ensuring reliable access to web services. The incident demonstrated how a type of DoS attack called a SYN flooding attack can completely prevent users from accessing a website.
+### **Project Impact**
 
-From a technical perspective, the project improved the ability to:
+This project demonstrates the critical importance of **network security controls** in maintaining the availability and reliability of web services. The incident specifically highlighted how a **SYN flooding attack**—a type of DoS attack targeting the TCP handshake—can overwhelm a server by exhausting its connection resources, ultimately preventing legitimate users from accessing the website.
 
-* Immediate Mitigation 
-* Configure the firewall
-* Incident Report
-* Suggest potential ways to secure the network so this attack can be prevented in the future.
+From a **business perspective**, the attack caused a disruption in service availability, which can negatively impact user experience, customer trust, and overall reputation. Even short periods of downtime can result in lost engagement and potential revenue, especially for client-facing services.
 
-You will find the **Cybersecurity-incident-report** file in my Cybersecurity Portfolio in the Network Analysis and Security folder, **Analyze network attacks**.
+From a **technical perspective**, this project significantly strengthened practical cybersecurity skills in several key areas:
+
+* **Immediate Mitigation:**
+  Identifying the attack pattern and taking rapid action to reduce its impact, such as limiting incoming traffic and stabilizing network performance.
+
+* **Firewall Configuration:**
+  Implementing and refining firewall rules to filter malicious traffic, including protections against SYN flood attacks (e.g., rate limiting, SYN cookies, and connection thresholds).
+
+* **Incident Analysis & Reporting:**
+  Documenting the attack, analyzing packet behavior, and clearly communicating findings through a structured incident report.
+
+* **Future Risk Reduction:**
+  Proposing security improvements such as intrusion detection/prevention systems (IDS/IPS), traffic monitoring, and stronger network configurations to prevent similar attacks.
+
+This work is documented in the **Cybersecurity Incident Report**, which is included in my portfolio under the **Network Analysis and Security** section. The project reflects hands-on experience in analyzing real-world network attacks and applying practical solutions to enhance overall security posture.
 
 
 
