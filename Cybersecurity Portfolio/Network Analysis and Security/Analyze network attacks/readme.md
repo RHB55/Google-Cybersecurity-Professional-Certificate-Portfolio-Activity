@@ -15,6 +15,11 @@ One afternoon, I received an automated alert from the monitoring system indicati
 **Incident Report:** 
 Incident Report: I prepared a report about the attack I discovered and how it was  affecting the web server, employees, and the immediate response actions taken.
 
+## Project Impact
+
+
+
+
 
 
 
