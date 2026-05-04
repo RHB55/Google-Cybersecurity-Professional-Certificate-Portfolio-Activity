@@ -1,13 +1,13 @@
 # Project Overview
 In this activity, I will take on the role of a cybersecurity analyst working for a company that hosts the cooking website, yummyrecipesforme.com. Visitors to the website experience a security issue when loading the main webpage. My job is to investigate, identify, document, and recommend a solution to the security problem. 
 
-# Project Scope: 
+### Project Scope: 
 **Incident Analysis and Remediation**
 
-## Incident Summary
+### Incident Summary
 A former employee gained unauthorized access to the administrative panel of `yummyrecipesforme.com` by executing a brute force attack against an account still using default credentials. 
 
-## Technical Investigation
+### Technical Investigation
 I conducted the test in a controlled sandbox environment using `tcpdump` to capture network traffic.
 
 ### Packet Analysis Workflow
@@ -16,17 +16,13 @@ I conducted the test in a controlled sandbox environment using `tcpdump` to capt
 3.  **Payload Delivery:** The JavaScript function triggers the download of the executable.
 4.  **Malicious Redirection:** The script initiates a second DNS/HTTP request to `greatrecipesforme.com`.
 
----
-
-## Discovery & Impact
+### Discovery & Impact
 *   **Discovery:** The incident was identified after multiple customer reports to the helpdesk regarding slow computer performance and suspicious download prompts.
 *   **Impact:** The legitimate business website was rendered unsafe, customer machines were potentially infected with malware, and administrative access was lost.
 *   **Root Cause:** Failure to change default administrative credentials and a lack of account lockout policies.
 
 *   **Server-Side Scan:** Run a malware scanner on the web host to ensure the hacker didn't leave any vulnerability
----
-
-## Mitigation & Recommendations
+### Mitigation & Recommendations
 To secure the environment and prevent a recurrence of this brute force event, the following controls are recommended:
 
 *   **Password Complexity Policy:** Implement a policy requiring non-default, high-entropy passwords for all administrative accounts.
