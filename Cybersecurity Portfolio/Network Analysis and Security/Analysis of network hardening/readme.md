@@ -17,11 +17,10 @@ I discovered four major vulnerabilities. The four vulnerabilities are as follows
 
 2. **Default Database Admin Password**
 * Immediate Data Breach: Default passwords are listed in public databases used by hackers. An attacker can use automated scripts to gain full control of your database in seconds.
-
 * Data Ransom/Exfiltration: Once inside the database, an attacker can encrypt your data for ransom or steal sensitive customer information to sell on the dark web.
 
 3. **Lack of Firewall Traffic Filtering**
-Unrestricted Malware Communication: Without "Egress" filtering (outbound rules), malware on an internal computer can freely "phone home" to an attacker’s server to receive commands or upload stolen data.
+Unrestricted Malware Communication: Without "Egress" filtering, malware on an internal computer can freely "phone home" to an attacker’s server to receive commands or upload stolen data.
 
 4. **No Multi-Factor Authentication (MFA)**
 Credential Stuffing Vulnerability: If an employee's password is leaked in a third-party breach, an attacker can log into your organization's network immediately.
