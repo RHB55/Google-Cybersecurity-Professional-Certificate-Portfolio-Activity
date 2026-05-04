@@ -52,4 +52,4 @@ Implementing the recommended security controls changes the website's posture fro
 ### 4. Improved User Safety and Performance
 Customers will no longer be prompted to download suspicious files, and their browsing experience will return to normal. By stopping the redirection to `greatrecipesforme.com`, you prevent the further spread of malware that was causing customer computers to run slowly, effectively "quarantining" the threat.
 
-
+You will find the **Security-incident-report-template** file in my Cybersecurity Portfolio in **Apply OS hardening techniques** folder.
