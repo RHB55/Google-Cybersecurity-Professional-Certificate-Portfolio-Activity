@@ -26,13 +26,16 @@ I conducted the test in a controlled sandbox environment using `tcpdump` to capt
 To secure the environment and prevent a recurrence of this brute force event, the following controls are recommended:
 
 *   **Password Complexity Policy:** Implement a policy requiring non-default, high-entropy passwords for all administrative accounts.
-*   **Account Lockout Thresholds:** Configure the server to temporarily block IP addresses after a set number of failed login attempts (e.g., 5 attempts).
+*   **Account Lockout Thresholds:** Configure the server to temporarily block IP addresses after a set number of failed login attempts.
 *   **Multi-Factor Authentication (MFA):** Require a second form of verification for administrative access to the web host.
 *   **File Integrity Monitoring (FIM):** Implement tools to alert administrators when unauthorized changes are made to the website’s source code.
 
 Solving this security incident goes beyond just fixing a broken website; it restores the fundamental trust between the business and its customers while significantly hardening the organization's technical defenses.
 
-Here is the projected impact of the remediation:
+**Document the incident:**
+I summarize the incident. Provide as many details and facts as possible in documentation about the issue, including where the incident occurred, how it happened, whether anyone witnessed it, and how it was discovered
+
+**projecte impact:**
 
 ### 1. Restoration of Brand Integrity
 Before the fix, the website was a liability, actively infecting customers' computers. By removing the malicious code and regaining control, you transition the site back from a "threat vector" to a "trusted service." This stops the flow of helpdesk complaints and prevents further damage to the company’s reputation.
