@@ -25,11 +25,21 @@ Unrestricted Malware Communication: Without "Egress" filtering, malware on an in
 **No Multi-Factor Authentication (MFA)**
 Credential Stuffing Vulnerability: If an employee's password is leaked in a third-party breach, an attacker can log into your organization's network immediately.
 
-## Network hardening tools
+## Network hardening tools recommended 
 * **Password policies:** are used to prevent attackers from easily guessing user passwords, either manually or by using a script to attempt thousands of stolen passwords (commonly called a brute force attack).
 * **Configuration checks:** Updating the encryption standards for data that is stored in databases. to see if there are any unauthorized changes to the system.
 * **Firewall maintenance:** Firewall maintenance entails checking and updating security configurations regularly to stay ahead of potential threats.
 * **Multifactor authentication (MFA):**	A security measure that requires a user to verify their identity in two or more ways to access a system or network. MFA options include a password, pin number, badge, one-time password (OTP) sent to a cell phone, fingerprint, and more.
+* 
+## Project Impact 
+Closing the vulnerabilities transforms the organization’s security posture from a "high-risk target" to a "defended environment." By addressing shared passwords, default credentials, firewall gaps, and the lack of MFA, the project delivers several critical impacts.
+
+
+The ultimate impact is Business Continuity. By hardening these risks, the organization avoids the massive financial costs associated with data breach notifications, legal fines, and the loss of customer trust that would occur if `yummyrecipesforme.com` were to be compromised again.
+
+The organization has a strong network hardening practice that can be performed consistently to prevent attacks and breaches in the future. 
+
+
 
 
 
