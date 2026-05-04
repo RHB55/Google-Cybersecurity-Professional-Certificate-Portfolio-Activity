@@ -39,7 +39,6 @@ The ultimate impact is Business Continuity. By hardening these risks, the organi
 
 The organization has a strong network hardening practice that can be performed consistently to prevent attacks and breaches in the future. 
 
-
-
+You will find the full Risk Assessment Report, included under **my portfolio folder** in the **Security-risk-assessment-report** file.
 
 
