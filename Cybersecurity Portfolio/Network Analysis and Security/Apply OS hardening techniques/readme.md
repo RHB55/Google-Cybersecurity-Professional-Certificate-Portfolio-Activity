@@ -40,16 +40,16 @@ I summarize the incident. Provide as many details and facts as possible in docum
  1. Restoration of Brand Integrity
 Before the fix, the website was a liability, actively infecting customers' computers. By removing the malicious code and regaining control, you transition the site back from a "threat vector" to a "trusted service." This stops the flow of helpdesk complaints and prevents further damage to the company’s reputation.
 
-### 2. Elimination of Unauthorized Persistence
+2. Elimination of Unauthorized Persistence
 The most immediate technical impact is the removal of the hacker's "backdoor." By resetting the administrative credentials and regaining access from the hosting provider, you terminate the attacker’s ability to modify the site. This "cleans the slate," ensuring that no lingering JavaScript functions remain to redirect users.
 
-### 3. Technical Hardening & Future Prevention
+3. Technical Hardening & Future Prevention
 Implementing the recommended security controls changes the website's posture from **reactive** to **proactive**:
 *   **Brute Force Immunity:** With account lockout thresholds, an attacker can no longer guess passwords thousands of times.
 *   **Credential Security:** Moving away from default passwords eliminates the easiest entry point for hackers.
 *   **Defense in Depth:** The addition of Multi-Factor Authentication (MFA) ensures that even if a password is leaked in the future, the account remains secure.
 
-### 4. Improved User Safety and Performance
+4. Improved User Safety and Performance
 Customers will no longer be prompted to download suspicious files, and their browsing experience will return to normal. By stopping the redirection to `greatrecipesforme.com`, you prevent the further spread of malware that was causing customer computers to run slowly, effectively "quarantining" the threat.
 
 You will find the **Security-incident-report-template** file in my Cybersecurity Portfolio in **Apply OS hardening techniques** folder.
