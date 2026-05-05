@@ -25,7 +25,7 @@ To address this security event, the network security team implemented:
 4.  **Respond:**	For future incidents, the cybersecurity team will contain threats by isolating affected systems, restoring critical services, and analyzing network logs to identify suspicious activity.
 5.  **Recover:**	Recovery from an ICMP flood (DDoS) attack focuses on restoring normal network operations in a controlled and prioritized manner. First, block malicious ICMP traffic at the firewall to stop the attack. Then, reduce strain on the network by shutting down non-critical services. Critical services should be restored first to resume essential operations. Once the attack traffic subsides, all remaining non-critical systems can be safely brought back online.
 
-## project impact
+### project impact
 By applying the NIST Cybersecurity Framework (CSF) to a real-world ICMP flood (DDoS) incident, the organization has moved beyond simply "fixing a bug" to building a sustainable security lifecycle.
 Specific impacts across the five functions:
 
