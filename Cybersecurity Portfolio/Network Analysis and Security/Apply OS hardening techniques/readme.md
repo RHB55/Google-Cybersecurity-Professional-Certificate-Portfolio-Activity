@@ -35,9 +35,9 @@ Solving this security incident goes beyond just fixing a broken website; it rest
 **Document the incident:**
 I summarize the incident. Provide as many details and facts as possible in documentation about the issue, including where the incident occurred, how it happened, whether anyone witnessed it, and how it was discovered
 
-**projecte impact:**
+### **projecte impact:**
 
-### 1. Restoration of Brand Integrity
+ 1. Restoration of Brand Integrity
 Before the fix, the website was a liability, actively infecting customers' computers. By removing the malicious code and regaining control, you transition the site back from a "threat vector" to a "trusted service." This stops the flow of helpdesk complaints and prevents further damage to the company’s reputation.
 
 ### 2. Elimination of Unauthorized Persistence
