@@ -3,13 +3,10 @@ As a cybersecurity analyst, my organization experienced a DoS attack. My task is
 NIST cybersecurity framework responds to a security incident.
 
 ###  Analyzing Cybersecurity Event Strategy
-**Identify:** Spot weaknesses through systematic reviews of systems, devices, and access logs.
-
-**Protect:** Shield the organization using a mix of governance, employee awareness, and defensive tools.
-
-**Detect:** Sharpen oversight to catch suspicious activity the moment it happens.
-
-**Respond:** Act quickly to isolate threats and integrate "lessons learned" back into the security lifecycle.
+* **Identify:** Spot weaknesses through systematic reviews of systems, devices, and access logs.
+* **Protect:** Shield the organization using a mix of governance, employee awareness, and defensive tools.
+* **Detect:** Sharpen oversight to catch suspicious activity the moment it happens.
+* **Respond:** Act quickly to isolate threats and integrate "lessons learned" back into the security lifecycle.
 
 ### Security Event Investigation:
 The security team  investigated the security event. They found that a malicious actor had sent a flood of ICMP pings into the company’s network through an unconfigured firewall. This vulnerability allowed the malicious attacker to overwhelm the company’s network through a denial of service(DoS)attack.
