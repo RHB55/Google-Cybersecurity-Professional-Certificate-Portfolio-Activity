@@ -25,6 +25,27 @@ To address this security event, the network security team implemented:
 4.  **Respond:**	For future incidents, the cybersecurity team will contain threats by isolating affected systems, restoring critical services, and analyzing network logs to identify suspicious activity.
 5.  **Recover:**	Recovery from an ICMP flood (DDoS) attack focuses on restoring normal network operations in a controlled and prioritized manner. First, block malicious ICMP traffic at the firewall to stop the attack. Then, reduce strain on the network by shutting down non-critical services. Critical services should be restored first to resume essential operations. Once the attack traffic subsides, all remaining non-critical systems can be safely brought back online.
 
+## project impact
+By applying the NIST Cybersecurity Framework (CSF) to a real-world ICMP flood (DDoS) incident, the organization has moved beyond simply "fixing a bug" to building a sustainable security lifecycle.
+
+Here is a breakdown of the specific impacts across the five functions:
+
+1. Hardened Infrastructure (Identify & Protect)
+Vulnerability Remediation: The project successfully identified a critical misconfiguration (the unconfigured firewall) and closed that gap.
+
+Asset Protection: By implementing rate-limiting and IDS/IPS filtering, the organization moved from an "open door" policy to a "filtered entry" system, significantly reducing the success rate of future DDoS attempts.
+
+2. Operational Visibility (Detect)
+Proactive Monitoring: Instead of waiting for a crash to notice an attack, the team now has real-time verification (Source IP checking) and pattern recognition.
+
+Efficiency: The impact here is a reduction in Mean Time to Detect (MTTD). The security team can now distinguish between legitimate spikes and malicious spoofing automatically.
+
+3. Business Resilience (Respond & Recover)
+Service Continuity: The primary impact is the creation of a prioritized recovery roadmap. By defining which services are "critical," the business ensures that its most important functions stay online or recover first during a crisis.
+
+Reduced Downtime: Strategic isolation and log analysis mean the team can neutralize threats without necessarily taking the entire company offline, preserving productivity.
+
+
 
 
 
