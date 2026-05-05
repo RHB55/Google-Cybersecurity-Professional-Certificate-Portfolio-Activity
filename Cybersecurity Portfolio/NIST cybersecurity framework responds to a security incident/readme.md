@@ -27,23 +27,16 @@ To address this security event, the network security team implemented:
 
 ## project impact
 By applying the NIST Cybersecurity Framework (CSF) to a real-world ICMP flood (DDoS) incident, the organization has moved beyond simply "fixing a bug" to building a sustainable security lifecycle.
-
-Here is a breakdown of the specific impacts across the five functions:
+Specific impacts across the five functions:
 
 1. Hardened Infrastructure (Identify & Protect)
 Vulnerability Remediation: The project successfully identified a critical misconfiguration (the unconfigured firewall) and closed that gap.
 
-Asset Protection: By implementing rate-limiting and IDS/IPS filtering, the organization moved from an "open door" policy to a "filtered entry" system, significantly reducing the success rate of future DDoS attempts.
-
 2. Operational Visibility (Detect)
 Proactive Monitoring: Instead of waiting for a crash to notice an attack, the team now has real-time verification (Source IP checking) and pattern recognition.
 
-Efficiency: The impact here is a reduction in Mean Time to Detect (MTTD). The security team can now distinguish between legitimate spikes and malicious spoofing automatically.
-
-3. Business Resilience (Respond & Recover)
+4. Business Resilience (Respond & Recover)
 Service Continuity: The primary impact is the creation of a prioritized recovery roadmap. By defining which services are "critical," the business ensures that its most important functions stay online or recover first during a crisis.
-
-Reduced Downtime: Strategic isolation and log analysis mean the team can neutralize threats without necessarily taking the entire company offline, preserving productivity.
 
 
 
