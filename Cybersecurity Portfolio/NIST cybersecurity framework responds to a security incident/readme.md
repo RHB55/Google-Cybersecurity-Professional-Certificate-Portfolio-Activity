@@ -11,9 +11,9 @@ To address this security event, the network security team implemented:
 * Source IP address verification on the firewall to check for spoofed IP addresses on incoming ICMP packets
 * Network monitoring software to detect abnormal traffic patterns
 * An IDS/IPS system to filter out some ICMP traffic based on suspicious characteristics
-  
-##  National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF)
-* Identify security risks through regular audits of internal networks, systems, devices, and access privileges to identify potential security gaps. 
+
+##  Analyzing Cybersecurity Event Strategy
+* Identify security risks: through regular audits of internal networks, systems, devices, and access privileges to identify potential security gaps. 
 * Protect internal assets through the implementation of policies, procedures, training, and tools that help mitigate cybersecurity threats. 
 * Detect potential security incidents and improve monitoring capabilities to increase the speed and efficiency of detections. 
 * Respond to contain, neutralize, and analyze security incidents; implement improvements to the security process. 
