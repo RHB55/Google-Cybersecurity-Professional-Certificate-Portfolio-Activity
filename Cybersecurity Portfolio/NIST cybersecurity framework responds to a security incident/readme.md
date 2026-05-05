@@ -38,7 +38,7 @@ Proactive Monitoring: Instead of waiting for a crash to notice an attack, the te
 4. Business Resilience (Respond & Recover)
 Service Continuity: The primary impact is the creation of a prioritized recovery roadmap. By defining which services are "critical," the business ensures that its most important functions stay online or recover first during a crisis.
 
-You will find the Incident-report-analysis file in my Cybersecurity Portfolio in the NIST cybersecurity framework responds to a security incident folder.
+You will find the **Incident-report-analysis file** in my Cybersecurity Portfolio in the **NIST cybersecurity framework responds to a security incident** folder.
 
 
 
