@@ -6,4 +6,5 @@ my task is to examine existing permissions on the file system. I need to determi
 ## Procedures followed
 In this project, I used the Linux command prompt to ensure users on the team are authorized with the appropriate permissions.using the following steps:
 
-1.
+1.**Check file and directory details**
+Using linux command prompt I checked the permissions set for files and subdirectories in the projects directory.  including hidden files.Then, use the output of this command in the lab as a screenshot added to the file
