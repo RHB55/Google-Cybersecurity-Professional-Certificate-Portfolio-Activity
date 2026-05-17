@@ -15,4 +15,5 @@ Using linux command prompt I checked the permissions set for files and subdirect
 In this step i choose one example from the output in the previous step, then I write a short description that explains the 10-character string in the example describing what the 10-character string is for and what each character represents.A 10 character permission string tells you what type of file it is and who can do what with it. Here’s how to read it:
 
 **3.Change file permissions**
+
 The organization provide set of rule related users permetions it' does not allow others to have write access to any files. In theis step i checked which file needs to have its permissions modified. Using a Linux command I modify these permissions.
