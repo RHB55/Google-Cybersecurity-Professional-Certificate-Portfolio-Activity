@@ -6,8 +6,13 @@ my task is to examine existing permissions on the file system. I need to determi
 ## Procedures followed
 In this project, I used the Linux command prompt to ensure users on the team are authorized with the appropriate permissions.**using the following steps:**
 
-**1.Check file and directory details**
+**1. Check file and directory details**
+
 Using linux command prompt I checked the permissions set for files and subdirectories in the projects directory. including hidden files.Then, use the output of this command in the lab as a screenshot added to the file
 
-**2.Describe the permissions string**
-In this step i choose one example from the output in the previous step, then I write a short description that explains the 10-character string in the example describing what the 10-character string is for and what each character represents.
+**2. Describe the permissions string**
+
+In this step i choose one example from the output in the previous step, then I write a short description that explains the 10-character string in the example describing what the 10-character string is for and what each character represents.A 10 character permission string tells you what type of file it is and who can do what with it. Here’s how to read it:
+
+**3.Change file permissions**
+The organization provide set of rule related users permetions it' does not allow others to have write access to any files. In theis step i checked which file needs to have its permissions modified. Using a Linux command I modify these permissions.
