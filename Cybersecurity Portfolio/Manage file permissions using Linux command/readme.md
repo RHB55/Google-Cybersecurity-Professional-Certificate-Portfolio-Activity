@@ -25,3 +25,14 @@ In this step i modefied permissions for a hidden file,the research team has arch
 **5. Change directory permissions**
 
 This setp require modification of a directory permissions The files and directories in the projects directory belong to the researcher2 user. Only researcher2 should be allowed to access the drafts directory and its contents. I used a Linux command to modify the permissions accordingly.
+
+### Project Impact
+
+The Project makes the organization safer and more organized. By checking who has access to files and fixing any incorrect permissions, you help:
+
+- **Protect sensitive research data** from people who shouldn’t see it.
+- **Make sure only the right users have the right access** so the system stays secure.
+- **Prevent mistakes or misuse**, which reduces the chance of security problems.
+- **Support the research team**, because they get the access they need without delays.
+- **Keep the system clean and easy to manage** in the future.
+
