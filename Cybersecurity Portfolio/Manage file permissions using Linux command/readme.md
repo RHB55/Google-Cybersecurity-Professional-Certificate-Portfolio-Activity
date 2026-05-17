@@ -2,3 +2,8 @@
 
 As a security professional at a large organization. I am mainly work with their research team. Part of my job is to ensure users on this team are authorized with the appropriate permissions. This helps keep the system secure. 
 my task is to examine existing permissions on the file system. I need to determine if the permissions match the authorization that should be given. If they do not match, I will modify the permissions to authorize the appropriate users and remove any unauthorized access.
+
+## Procedures followed
+In this project, I used the Linux command prompt to ensure users on the team are authorized with the appropriate permissions.using the following steps:
+
+1.
