@@ -13,6 +13,6 @@ in this project i used SQL filters to retrieve records from different datasets a
 
  **2. Retrieve login attempts on specific dates**
 
-A suspicious event occurred on 2022-05-09.To investigate this event, I review all login attempts which occurred on this day and the day before. I use filters in SQL to create a query that identifies all login attempts that occurred on 2022-05-09 or 2022-05-08 from **login_date column**
+A suspicious event occurred on 2022-05-09.To investigate this event, I review all login attempts which occurred on this day and the day before. I use filters in SQL to create a query that identifies all login attempts that occurred on 2022-05-09 or 2022-05-08 from **login_date** column
  
 
