@@ -12,7 +12,7 @@ Using linux command prompt I checked the permissions set for files and subdirect
 
 **2. Describe the permissions string**
 
-In this step i choose one example from the output in the previous step, then I write a short description that explains the 10-character string in the example describing what the 10-character string is for and what each character represents.A 10 character permission string tells you what type of file it is and who can do what with it. Here’s how to read it:
+In this step i choose one example from the output in the previous step, then I write a short description that explains the 10-character string in the example describing what the 10-character string is for and what each character represents.A 10 character permission string tells you what type of file it is and who can do what with it.
 
 **3. Change file permissions**
 
