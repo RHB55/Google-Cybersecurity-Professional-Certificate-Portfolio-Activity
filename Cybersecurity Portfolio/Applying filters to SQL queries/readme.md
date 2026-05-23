@@ -65,5 +65,5 @@ To investigate security issues related to Login attempts to help keep the system
 This project enhances the organization’s security posture by enabling early detection of suspicious login activity, improving incident response, reducing breach risk, and providing data‑driven insights that strengthen authentication and access control policies.
 
 
-> You will find the full project supported with screenshots in the in the **Applying filters to SQL queries** file inside of **Apply filters to SQL queries** folder.
 
+> You will find the full project supported with screenshots in the in the **Applying filters to SQL queries** file inside the **Apply filters to SQL queries** folder.
