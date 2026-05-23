@@ -57,9 +57,12 @@ WHERE NOT department = 'Information Technology';
 ```
 
 ### Summary
-To investigate security issues related to Login attempts to help keep the system secure. I used filters to SQL queries  for different tables, I used ```SELECT``` and ```FROM``` tO create a query  retrieve records from different datasets, also I used ```AND``` ```OR``` and ```NOT```operators to filter for the specific information needed for each task also used LIKE and the percentage sign ```%``` wildcard to filter for patterns.
 
+To investigate security issues related to Login attempts to help keep the system secure. I used filters to SQL queries  for different tables, I used ```SELECT``` and ```FROM``` to create a query  retrieve records from different datasets, also I used ```AND``` ```OR``` and ```NOT```operators to filter for the specific information needed for each task also used LIKE and the percentage sign ```%``` wildcard to filter for patterns.
 
+### Project Impact
 
+This project enhances the organization’s security posture by enabling early detection of suspicious login activity, improving incident response, reducing breach risk, and providing data‑driven insights that strengthen authentication and access control policies.
 
+> You will find the full project supported with screenshots in the in the **Applying filters to SQL queries** file inside of **Apply filters to SQL queries** folder.
 
