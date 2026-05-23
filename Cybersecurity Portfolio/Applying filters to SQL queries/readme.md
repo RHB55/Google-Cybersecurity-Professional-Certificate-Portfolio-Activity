@@ -27,7 +27,7 @@ WHERE login_date = '2022-05-09' OR login_date = '2022-05-08';
 **3. Retrieve login attempts that occurred outside of Mexico**
 
 To investigate login attempts that occurred outside of Mexico. I  use filters in SQL to create a query that identifies all login attempts that occurred outside of Mexico.
-When referring to Mexico, "the country column contains values of both MEX and MEXICO,I use the **LIKE** keyword with **%** to make sure My query reflects this"
+When referring to Mexico, the country column contains values of both MEX and MEXICO,I use the **LIKE** keyword with **%** to make sure my query reflects this.
 ```
 SELECT *
 FROM log_in_attempts
