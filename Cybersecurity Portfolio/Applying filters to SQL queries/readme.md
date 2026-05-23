@@ -55,3 +55,11 @@ The employees who are in the Information Technology department already had this 
 ```
 WHERE NOT department = 'Information Technology';
 ```
+
+### Summary
+To investigate security issues related to Login attempts to help keep the system secure. I used filters to SQL queries  for different tables, I used ```SELECT``` and ```FROM``` tO create a query  retrieve records from different datasets, also I used ```AND``` ```OR``` and ```NOT```operators to filter for the specific information needed for each task also used LIKE and the percentage sign ```%``` wildcard to filter for patterns.
+
+
+
+
+
