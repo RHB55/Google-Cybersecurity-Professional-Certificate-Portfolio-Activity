@@ -20,6 +20,10 @@ WHERE login_time > '18:00' AND success = FALSE;
 
 A suspicious event occurred on 2022-05-09.To investigate this event, I review all login attempts which occurred on this day and the day before. I use filters in SQL to create a query that identifies all login attempts that occurred on 2022-05-09 or 2022-05-08 from **login_date** column.
 
+```
+WHERE login_date = '2022-05-09' OR login_date = '2022-05-08';
+```
+
 **3. Retrieve login attempts that occurred outside of Mexico**
 
 To investigate login attempts that occurred outside of Mexico. I  use filters in SQL to create a query that identifies all login attempts that occurred outside of Mexico.
