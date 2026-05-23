@@ -47,3 +47,11 @@ SELECT *
 FROM employees
 WHERE department = 'Finance' OR department = 'Sales'; 
 ```
+
+**6. Retrieve all employees not in IT**
+
+The employees who are in the Information Technology department already had this update, but employees in all other departments need it. in this case i use filters in SQL to create a query which identifies all employees not in the IT department. 
+
+```
+WHERE NOT department = 'Information Technology';
+```
