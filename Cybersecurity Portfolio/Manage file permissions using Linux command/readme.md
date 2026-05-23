@@ -27,13 +27,21 @@ The organization provides a set of rules related to users' permissions; it does 
 ```
 chmod o-w project_k.txt file
 ```
- **4. Change file permissions on a hidden file**
+**4. Change file permissions on a hidden file**
  
-In this step i modefied permissions for a hidden file,the research team has archived the file, this file should not have write permissions for anyone, but the user and group should be able to read the file.I use a Linux command to assign the appropriate authorization.
+In this step I modified permissions for a hidden file, the research team has archived the file, this file should not have write permissions for anyone, but the user and group should be able to read the file.I use a Linux command to assign the appropriate authorization.
+
+```
+chmod u-w,g-w,g+r .project_x.txt
+```
 
 **5. Change directory permissions**
 
-This setp require modification of a directory permissions The files and directories in the projects directory belong to the researcher2 user. Only researcher2 should be allowed to access the drafts directory and its contents. I used a Linux command to modify the permissions accordingly.
+This step requires modification of a directory permissions. The files and directories in the project's directory belong to the researcher2 user. Only researcher2 should be allowed to access the drafts directory and its contents. I used a Linux command to modify the permissions accordingly.
+
+```
+chmod g-x drafts
+```
 
 ### Project Impact
 
