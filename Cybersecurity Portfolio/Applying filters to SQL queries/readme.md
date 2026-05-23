@@ -29,8 +29,6 @@ WHERE login_date = '2022-05-09' OR login_date = '2022-05-08';
 To investigate login attempts that occurred outside of Mexico. I  use filters in SQL to create a query that identifies all login attempts that occurred outside of Mexico.
 When referring to Mexico, the country column contains values of both MEX and MEXICO,I use the **LIKE** keyword with **%** to make sure my query reflects this.
 ```
-SELECT *
-FROM log_in_attempts
 WHERE NOT country LIKE 'MEX%';
  ```
 **4. Retrieve employees in Marketing**
@@ -39,4 +37,13 @@ The team wants to perform security updates on specific employee machines in the 
 
 ```
 WHERE department = 'Marketing' AND office LIKE 'East%';
+```
+
+**5.  Retrieve employees in Finance or Sales**
+
+My team now needs to perform a different security update on machines for **employees** in the Sales and Finance departments. I use filters in SQL to create a query that identifies all employees in the Sales or Finance departments in the **employees** table. 
+```
+SELECT *
+FROM employees
+WHERE department = 'Finance' OR department = 'Sales'; 
 ```
