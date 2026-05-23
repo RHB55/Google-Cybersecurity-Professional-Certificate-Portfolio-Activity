@@ -22,8 +22,11 @@ In this step i choose one example from the output in the previous step, then I w
 
 **3. Change file permissions**
 
-The organization provide set of rule related users permetions it' does not allow others to have write access to any files. In theis step i checked which file needs to have its permissions modified. Using a Linux command I modify these permissions.
+The organization provides a set of rules related to users' permissions; it does not allow others to have write access to any files. In this step I checked which file needs to have its permissions modified. Using a Linux command, I modify these permissions.
 
+```
+chmod o-w project_k.txt file
+```
  **4. Change file permissions on a hidden file**
  
 In this step i modefied permissions for a hidden file,the research team has archived the file, this file should not have write permissions for anyone, but the user and group should be able to read the file.I use a Linux command to assign the appropriate authorization.
