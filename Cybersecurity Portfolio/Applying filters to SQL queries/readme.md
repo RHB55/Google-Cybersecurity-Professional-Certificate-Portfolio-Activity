@@ -59,7 +59,7 @@ WHERE NOT department = 'Information Technology';
 
 ### Summary
 
-To investigate security issues related to login attempts to help keep the system secure. I used filters to SQL queries  for different tables. I used ```SELECT``` and ```FROM``` to create a query to  retrieve records from different datasets. Also, I used ```AND```, ```OR```, and ```NOT``` operators to filter for the specific information needed for each task. I also used LIKE and the percentage sign ```%``` wildcard to filter for patterns.
+To investigate security issues related to login attempts to help keep the system secure. I used filters to SQL queries  for different tables. I used ```SELECT``` and ```FROM``` to create a query to  retrieve records from different datasets. Also, I used ```AND```, ```OR```, and ```NOT``` operators to filter for the specific information needed for each task. I also used ```LIKE``` and the percentage sign ```%``` wildcard to filter for patterns.
 
 ### Project Impact
 
