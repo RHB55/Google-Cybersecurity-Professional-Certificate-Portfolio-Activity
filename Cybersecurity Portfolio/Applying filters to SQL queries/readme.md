@@ -9,7 +9,7 @@ in this project i used SQL filters to retrieve records from different datasets a
 
 **1. Retrieve after hours failed login attempts**
 
-To investigate this, I query the log_in_attempts table and review after hours login activity. I use filters in SQL to create a query that identifies all failed login attempts that occurred after 18:00   I use a value **FALSE** in my query to identify failed login attempts.
+To investigate this, I query the **log_in_attempts** table and review after hours login activity. I use filters in SQL to create a query that identifies all failed login attempts that occurred after 18:00   I use a value **FALSE** in my query to identify failed login attempts.
 
 ```
 SELECT *
