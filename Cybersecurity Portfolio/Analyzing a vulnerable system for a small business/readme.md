@@ -47,4 +47,6 @@ By thinking about the risks that could be remediated or mitigated using security
 
 I summarize specific security controls that could be implemented to remediate or mitigate the risks to the information system.
 
-## Project Impact
+### Project Impact
+
+The vulnerability assessment helped the company identify a **critical security risk**: a publicly accessible database that had been exposed for three years. By uncovering this issue, you helped prevent potential data breaches, protected sensitive customer and employee information, and reduced the company’s legal and financial risk. Your work also gave leadership clear guidance on how to secure the database and strengthen cybersecurity for a global remote workforce.
