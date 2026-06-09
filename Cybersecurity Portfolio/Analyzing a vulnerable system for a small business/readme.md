@@ -17,3 +17,7 @@ The purpose section helps stakeholders understand the underlying objective and i
 The purpose of conducting a security assessment is the database server valuable to the business, and the need for securing the server because it includes sensitive information and operations the company serves. If the server is disabled, it will affect the operation of the business and may affect the marketing operations.
 
 **3. Identify potential threats source**
+
+Using the threat sources section of the NIST SP 800-30 Rev. 1 resource. Using what I know about the vulnerable database server I identify three potential threats. I Choose the threats based on the information I have gathered from the system description, scope, purpose, and NIST SP 800-30 Rev. 1 resource.
+
+**4. **
