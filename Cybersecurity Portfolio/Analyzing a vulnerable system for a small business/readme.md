@@ -36,4 +36,13 @@ By questions about each threat that I identified earlier, I estimate a Likelihoo
 
 I explain why I selected the 3 specific threat sources/events I chose and why I think they're significant business risks. Estimate how bad attacks could be by judging their chances based on my security knowledge. Qualitative vulnerability assessments are useful for identifying high-level risks facing an organization. This information helps organizations make informed decisions about resource allocation, project planning, and other aspects of their business operations.
 
-**2. **
+**2. propose a remediation strategy**
+
+By thinking about the risks that could be remediated or mitigated using security controls like:
+
+- Principle of least privilege 
+- Defense in depth
+- Multi-factor authentication (MFA)
+- Authentication, Authorization, Accounting (AAA) framework
+
+I summarize specific security controls that could be implemented to remediate or mitigate the risks to the information system.
