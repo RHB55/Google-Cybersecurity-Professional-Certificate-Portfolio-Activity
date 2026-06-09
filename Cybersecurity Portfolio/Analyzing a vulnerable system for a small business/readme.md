@@ -10,14 +10,20 @@ The scope of this vulnerability assessment relates to the current access control
 
 The System Description highlights the relevant components, architecture, and dependencies of the system being assessed. All of these parts and connections make up the attack surface of the vulnerable information system.The Scope specifies the focus and boundaries of the assessment.
 
-**2. Explain the purpose of information system**
+**Perform the risk assessment**
+
+**1. Explain the purpose of information system**
 
 The purpose section helps stakeholders understand the underlying objective and intended outcome of your analysis. A purpose statement also connects the technical objectives of your analysis with the organization's goals.
 
 The purpose of conducting a security assessment is the database server valuable to the business, and the need for securing the server because it includes sensitive information and operations the company serves. If the server is disabled, it will affect the operation of the business and may affect the marketing operations.
 
-**3. Identify potential threats source**
+**2. Identify potential threats source**
 
 Using the threat sources section of the NIST SP 800-30 Rev. 1 resource. Using what I know about the vulnerable database server I identify three potential threats. I Choose the threats based on the information I have gathered from the system description, scope, purpose, and NIST SP 800-30 Rev. 1 resource.
+
+**3. Identify potential threat events**
+
+NIST SP 800-30 Rev. 1 provides a comprehensive list of possible security events that could compromise a vulnerable information system — labeled Threat events. based on the threat sources I identified before, I identified three threat events that could be initiated against the server.
 
 **4. **
