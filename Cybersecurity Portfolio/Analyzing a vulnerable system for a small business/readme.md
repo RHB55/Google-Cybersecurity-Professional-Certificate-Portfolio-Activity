@@ -11,3 +11,9 @@ The scope of this vulnerability assessment relates to the current access control
 The System Description highlights the relevant components, architecture, and dependencies of the system being assessed. All of these parts and connections make up the attack surface of the vulnerable information system.The Scope specifies the focus and boundaries of the assessment.
 
 **2. Explain the purpose of information system**
+
+The purpose section helps stakeholders understand the underlying objective and intended outcome of your analysis. A purpose statement also connects the technical objectives of your analysis with the organization's goals.
+
+The purpose of conducting a security assessment is the database server valuable to the business, and the need for securing the server because it includes sensitive information and operations the company serves. If the server is disabled, it will affect the operation of the business and may affect the marketing operations.
+
+**3. Identify potential threats source**
