@@ -10,7 +10,7 @@ The scope of this vulnerability assessment relates to the current access control
 
 The System Description highlights the relevant components, architecture, and dependencies of the system being assessed. All of these parts and connections make up the attack surface of the vulnerable information system.The Scope specifies the focus and boundaries of the assessment.
 
-**Perform the risk assessment**
+### Perform the risk assessment
 
 **1. Explain the purpose of information system**
 
@@ -26,4 +26,14 @@ Using the threat sources section of the NIST SP 800-30 Rev. 1 resource. Using wh
 
 NIST SP 800-30 Rev. 1 provides a comprehensive list of possible security events that could compromise a vulnerable information system — labeled Threat events. based on the threat sources I identified before, I identified three threat events that could be initiated against the server.
 
-**4. **
+**4. Calculate the risk of potential threats**
+
+By questions about each threat that I identified earlier, I estimate a Likelihood score (1-3) and Severity score (1-3) for each threat and i add scores to the corresponding columns of the Risk Assessment table After that, I calculate an overall Risk score (1-9) for each threat using the formula (likelihood x severity = risk).
+
+### Propose security recommendations
+
+**1. Explain your approach**
+
+I explain why I selected the 3 specific threat sources/events I chose and why I think they're significant business risks. Estimate how bad attacks could be by judging their chances based on my security knowledge. Qualitative vulnerability assessments are useful for identifying high-level risks facing an organization. This information helps organizations make informed decisions about resource allocation, project planning, and other aspects of their business operations.
+
+**2. **
