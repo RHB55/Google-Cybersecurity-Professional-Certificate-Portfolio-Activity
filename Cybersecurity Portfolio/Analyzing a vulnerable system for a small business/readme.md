@@ -46,3 +46,5 @@ By thinking about the risks that could be remediated or mitigated using security
 - Authentication, Authorization, Accounting (AAA) framework
 
 I summarize specific security controls that could be implemented to remediate or mitigate the risks to the information system.
+
+## Project Impact
