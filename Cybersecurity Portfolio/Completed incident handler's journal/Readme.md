@@ -15,7 +15,14 @@ For every incident, I developed and documented a structured response plan based 
 
 Throughout the project, I applied a variety of cybersecurity tools, methodologies, and analytical techniques to investigate and respond to security incidents. This included examining system and network logs, analyzing indicators of compromise, performing threat analysis, and documenting findings using industry best practices. The project also demonstrates familiarity with incident response frameworks, security monitoring concepts, log analysis, and evidence-based decision-making to support effective incident handling.
 
-#### 4.Lessons Learned
+#### 4.The 5 W of incident which include
+* who triggered the incident 
+* what happened
+* when the incident took place
+* where the incident took place
+* why the incident occurred  
+
+#### 5.Lessons Learned
 
 Each incident concludes with a reflective analysis of the response process, identifying successful practices, challenges encountered, and opportunities for improvement. These reflections focus on strengthening future incident response efforts by improving documentation quality, enhancing communication, refining response procedures, and reinforcing proactive security measures. The lessons learned demonstrate a commitment to continuous improvement and the development of practical cybersecurity skills through real-world incident analysis.
 
