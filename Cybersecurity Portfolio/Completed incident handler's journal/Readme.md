@@ -19,6 +19,6 @@ Throughout the project, I applied a variety of cybersecurity tools, methodologie
 
 Each incident concludes with a reflective analysis of the response process, identifying successful practices, challenges encountered, and opportunities for improvement. These reflections focus on strengthening future incident response efforts by improving documentation quality, enhancing communication, refining response procedures, and reinforcing proactive security measures. The lessons learned demonstrate a commitment to continuous improvement and the development of practical cybersecurity skills through real-world incident analysis.
 
-### Project Impact
+#### Project Impact
 
 This project strengthened my practical understanding of the cybersecurity incident response lifecycle by applying industry best practices to realistic security scenarios. Through documenting and analyzing multiple incidents, I improved my ability to identify threats, assess their impact, develop effective response strategies, and communicate technical findings in a clear and structured manner. The journal also enhanced my analytical thinking, attention to detail, and documentation skills, which are essential for cybersecurity roles such as SOC Analyst, Incident Responder, and Cybersecurity Analyst. Overall, this project demonstrates my ability to approach security incidents methodically, maintain accurate records, and contribute to effective incident management and continuous security improvement.
