@@ -15,7 +15,7 @@ For every incident, I developed and documented a structured response plan based 
 
 Throughout the project, I applied a variety of cybersecurity tools, methodologies, and analytical techniques to investigate and respond to security incidents. This included examining system and network logs, analyzing indicators of compromise, performing threat analysis, and documenting findings using industry best practices. The project also demonstrates familiarity with incident response frameworks, security monitoring concepts, log analysis, and evidence-based decision-making to support effective incident handling.
 
-#### 4.The 5 W of incident which include
+#### 4.The 5 W of an incident which include
 * who triggered the incident 
 * what happened
 * when the incident took place
