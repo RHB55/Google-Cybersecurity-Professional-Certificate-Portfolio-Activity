@@ -76,3 +76,6 @@ Then, I used another with statement and the .write() method to update the file:
         file.write(ip_addresses)
 ```
 
+### Project Impact
+
+This project improved the security and efficiency of access control management by automating the process of identifying and removing unauthorized IP addresses from an allow list. By eliminating manual verification, the Python algorithm reduced the risk of human error, ensured that only authorized employees retained access to restricted patient records, and supported the organization's access control policies. The project demonstrates practical experience in Python scripting, automation, file handling, conditional logic, and implementing cybersecurity principles such as the principle of least privilege and secure access management. It also highlights my ability to develop efficient solutions that enhance operational security and protect sensitive healthcare information.
