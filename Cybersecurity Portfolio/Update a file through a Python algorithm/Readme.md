@@ -18,6 +18,7 @@ Then, I used a with statement to open the file:
 with open(import_file, "r") as file:
 ```
 **2.Read the file contents**
+
 In order to read the file contents, I used the .read() method to convert it into the string.
 ```
 with open(import_file, "r") as file:
@@ -25,6 +26,7 @@ with open(import_file, "r") as file:
   ip_addresses = file.read()
 ```
 **3.Convert the string into a list**
+
 In order to remove individual IP addresses from the allow list, I needed it to be in list format. Therefore, I next used the .split() method to convert the ip_addresses string into a list:
 ```
 # Use `.split()` to convert `ip_addresses` from a string to a list
@@ -33,6 +35,7 @@ ip_addresses = ip_addresses.split()
 ```
 
 **4.Iterate through the remove list**
+
 A key part of my algorithm involves iterating through the IP addresses that are elements in the remove_list. To do this, I incorporated a for loop:
 ```
 # Build iterative statement
@@ -54,5 +57,22 @@ if element in ip_addresses:
 
          ip_addresses.remove(element)
 ```
+**6.Update the file with the revised list of IP addresses**
 
+As a final step in my algorithm, I needed to update the allow list file with the revised list of IP addresses. To do so, I first needed to convert the list back into a string. I used the .join() method for this:
+```
+    # Convert `ip_addresses` back to a string so that it can be written into the text file 
+
+    ip_addresses = " \n".join(ip_addresses)    
+```
+Then, I used another with statement and the .write() method to update the file:
+```
+ # Build `with` statement to rewrite the original file
+
+    with open(import_file, "w") as file:
+
+        # Rewrite the file, replacing its contents with `ip_addresses`
+
+        file.write(ip_addresses)
+```
 
