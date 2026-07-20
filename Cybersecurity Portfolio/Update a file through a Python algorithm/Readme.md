@@ -44,10 +44,14 @@ for element in remove_list:
 **5.Remove IP addresses that are on the remove list**
 ```
 for element in remove_list:
+
     #create condetional statment to evaluate if `element` is in `ip_addresses `
-    if element in ip_addresses:
+
+if element in ip_addresses:
+
        # use the`remove()` method to remove
        # elements from `ip_addresses`
+
          ip_addresses.remove(element)
 ```
 
