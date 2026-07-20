@@ -5,9 +5,50 @@ I am a security professional working at a health care company. As part of my job
 #### Project Scop
 The project's primary objectives were as follows:
 
-1.Open the file that contains the allow list
+**1.Open the file that contains the allow list**
 For the first part of the algorithm, I opened the "allow_list.txt" file. First, I assigned this file name as a string to the import_file variable
 ```
 # Assign `import_file` to the name of the file 
 import_file = "allow_list.txt"
 ```
+Then, I used a with statement to open the file:
+```
+# Build `with` statement to read in the initial contents of the file
+
+with open(import_file, "r") as file:
+```
+**2.Read the file contents**
+In order to read the file contents, I used the .read() method to convert it into the string.
+```
+with open(import_file, "r") as file:
+  # Use `.read()` to read the imported file and store it in a variable named `ip_addresses`
+  ip_addresses = file.read()
+```
+**3.Convert the string into a list**
+In order to remove individual IP addresses from the allow list, I needed it to be in list format. Therefore, I next used the .split() method to convert the ip_addresses string into a list:
+```
+# Use `.split()` to convert `ip_addresses` from a string to a list
+
+ip_addresses = ip_addresses.split()
+```
+
+**4.Iterate through the remove list**
+A key part of my algorithm involves iterating through the IP addresses that are elements in the remove_list. To do this, I incorporated a for loop:
+```
+# Build iterative statement
+# Name loop variable `element`
+# Loop through `ip_addresses`
+
+for element in remove_list:
+```
+**5.Remove IP addresses that are on the remove list**
+```
+for element in remove_list:
+    #create condetional statment to evaluate if `element` is in `ip_addresses `
+    if element in ip_addresses:
+       # use the`remove()` method to remove
+       # elements from `ip_addresses`
+         ip_addresses.remove(element)
+```
+
+
