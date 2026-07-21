@@ -1,4 +1,5 @@
-## Project Introduction
+## Project Overview
+
 This project requires conducting an internal security audit for Botium Toys, a small U.S. business that develops and sells toys. The business has a single physical location, which serves as its main office, a storefront, and a warehouse for its products. However, Botium Toy’s online presence has grown, attracting customers in the U.S. and abroad. As a result, their information technology (IT) department is under increasing pressure to support their online market worldwide.My task is to review the IT manager’s scope, goals, and risk assessment report. Then, perform an internal audit by completing a controls and compliance checklist.
 
 #### Scope, Goals, and Risk Assessment Report
