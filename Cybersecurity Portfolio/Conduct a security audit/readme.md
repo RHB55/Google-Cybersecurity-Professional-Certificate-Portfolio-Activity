@@ -20,7 +20,7 @@ After performing an internal audit by completing a controls and compliance check
 ### Project Impact
 This project contributed to the company's objective of providing an overview of the risks and fines it might face due to the current state of its security posture, and presented solutions and recommendations to the IT manager regarding strengthening the company's governance and compliance needs, so that the IT manager could communicate to stakeholders to reduce risks to assets and improve Botium Toys’ security posture.
 
-You will find in-depth details of this project in my **_Cybersecurity Portfolio_** in the **_Conduct a security audit_**  folder, including Botium-Toys-Scope-goals-and-risk-assessment-report, Control-categories, Controls-and-compliance-checklist.
+You will find in-depth details of this project in my **_Cybersecurity Portfolio_** in the **_Conduct a security audit_**.
 
 
 
