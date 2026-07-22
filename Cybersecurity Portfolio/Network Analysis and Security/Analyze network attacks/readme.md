@@ -35,7 +35,7 @@ From a **technical perspective**, this project significantly strengthened practi
 * **Future Risk Reduction:**
   Proposing security improvements such as intrusion detection/prevention systems (IDS/IPS), traffic monitoring, and stronger network configurations to prevent similar attacks.
 
-This work is documented in the **Cybersecurity Incident Report**, which is included in my portfolio under the **Network Analysis and Security** section. The project reflects hands-on experience in analyzing real-world network attacks and applying practical solutions to enhance overall security posture.
+This work is documented in the **Cybersecurity Incident Report**, which is included in **Analyze network attack** folder. The project reflects hands-on experience in analyzing real-world network attacks and applying practical solutions to enhance overall security posture.
 
 
 
