@@ -47,6 +47,6 @@ From a technical perspective, the project improved the team’s ability to:
 
 Overall, this project strengthened incident analysis skills, reinforced the importance of proactive monitoring and configuration management, and contributed to improving the organization’s network reliability and resilience.
 
-You will find **Cybersecurity incident report network traffic analysis** file in my Cybersecurity Portfolio in the Network Analysis and Security folder **Analyze network layer communication**.
+You will find **Cybersecurity incident report network traffic analysis** file in  **Analyze network layer communication** folder.
 
 
