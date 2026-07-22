@@ -2,43 +2,39 @@
 
 I am a security analyst working for a social media organization. The organization recently experienced a major data breach, which compromised the safety of their customers’ personal information, such as names and addresses. The organization wants to implement strong network hardening practices that can be performed consistently to prevent attacks and breaches in the future. 
 
-## Inspecting the organization network
-I discovered four major vulnerabilities. The four vulnerabilities are as follows:
+## Project Scope
 
-1. The organization’s employees share passwords.
-2. The admin password for the database is set to the default.
-3. The firewalls do not have rules in place to filter traffic coming in and out of the network.
-4. Multifactor authentication (MFA) is not used.
+The project scope encompasses **analyzing the recent data breach scenario and applying network hardening controls to mitigate the four identified vulnerabilities**:
 
-## Undetected vulnerabilities Risks
-**Employees Sharing Passwords**
-* Loss of Accountability: If a malicious action occurs, you cannot prove who did it because multiple people use the same credentials.
-* Expanded Attack Surface: If one employee’s computer is compromised via phishing, the attacker effectively gains the keys to every department that employee shares passwords with.
-* Insider Threat Escalation: It becomes impossible to restrict access based on the "Principle of Least Privilege," as everyone has access to everything.
-
-**Default Database Admin Password**
-* Immediate Data Breach: Default passwords are listed in public databases used by hackers. An attacker can use automated scripts to gain full control of your database in seconds.
-* Data Ransom/Exfiltration: Once inside the database, an attacker can encrypt your data for ransom or steal sensitive customer information to sell on the dark web.
-
-**Lack of Firewall Traffic Filtering**
-Unrestricted Malware Communication: Without "Egress" filtering, malware on an internal computer can freely "phone home" to an attacker’s server to receive commands or upload stolen data.
-
-**No Multi-Factor Authentication (MFA)**
-Credential Stuffing Vulnerability: If an employee's password is leaked in a third-party breach, an attacker can log into your organization's network immediately.
-
-## Network hardening tools recommended 
-* **Password policies:** are used to prevent attackers from easily guessing user passwords, either manually or by using a script to attempt thousands of stolen passwords (commonly called a brute force attack).
-* **Configuration checks:** Updating the encryption standards for data that is stored in databases. to see if there are any unauthorized changes to the system.
-* **Firewall maintenance:** Firewall maintenance entails checking and updating security configurations regularly to stay ahead of potential threats.
-* **Multifactor authentication (MFA):**	A security measure that requires a user to verify their identity in two or more ways to access a system or network. MFA options include a password, pin number, badge, one-time password (OTP) sent to a cell phone, fingerprint, and more.
-* 
-## Project Impact 
-Closing the vulnerabilities transforms the organization’s security posture from a "high-risk target" to a "defended environment." By addressing shared passwords, default credentials, firewall gaps, and the lack of MFA, the project delivers several critical impacts.
+1. **Access Management & Password Controls:**
+* Eliminating shared employee passwords.
+* Updating and securing default database administrator credentials.
 
 
-The ultimate impact is Business Continuity. By hardening these risks, the organization avoids the massive financial costs associated with data breach notifications, legal fines, and the loss of customer trust that would occur if `yummyrecipesforme.com` were to be compromised again.
+2. **Network Perimeter & Traffic Control:**
+* Configuring firewall rules to properly filter inbound and outbound network traffic.
 
-The organization has a strong network hardening practice that can be performed consistently to prevent attacks and breaches in the future. 
+
+3. **Authentication Security:**
+* Implementing Multi-Factor Authentication (MFA) across organizational systems.
+
+
+4. **Deliverable Scope:**
+* Writing a comprehensive **Security Risk Assessment report** that documents the incident, details the identified vulnerabilities, and recommends technical/administrative controls to harden the network and prevent future data breaches.
+
+### Project Impact
+Completing this assessment and hardening controls transitions the organization from a vulnerable posture to a secure, resilient state.
+
+1. Business & Trust Impact
+Restores Trust: Reassures customers by actively protecting sensitive personal data (PII).
+Prevents Financial & Regulatory Loss: Reduces the risk of future breach costs, fines, and legal liabilities.
+Ensures Continuity: Minimizes system downtime and operational disruptions.
+
+2. Security & Operational Impact
+Password Policies: Transitions from shared credentials to individual user accounts to ensure strict access control and clear audit trails.
+Database Hardening: Replaces default admin passwords with strong, unique credentials to prevent unauthorized database access.
+Firewall Configuration: Replaces unfiltered traffic with strict rules that block unauthorized connections and data theft.
+MFA Deployment: Upgrades single-factor authentication by adding a critical security layer to prevent account takeovers.
 
 You will find the full Risk Assessment Report, included under **my portfolio folder** in the **Security-risk-assessment-report** file.
 
